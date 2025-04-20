@@ -53,7 +53,7 @@
 ---
 
 ### **🔗 Ссылки**  
-🌐 **GitHub:**[ Демонстрация сайта  ]([https://codebytecs.github.io/marvel-characters-api/)
+🌐 **GitHub:**[ Демонстрация сайта  ](https://codebytecs.github.io/marvel-characters-api/)
 
 
 🛠 **API:** [https://jsfree-les-3-api.onrender.com/characters](https://jsfree-les-3-api.onrender.com/characters)  
